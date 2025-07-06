@@ -3,7 +3,7 @@
 ## 📊 Overview
 Dive into the world of retail with our comprehensive analysis of the Superstore dataset! This project uncovers sales and profitability trends across various categories and regions, aiming to spotlight high performers and identify growth opportunities.
 
-## 🔑 Key Insights
+## 🔑 Key Insights 
 - **🏆 Sales Performance**: The **West region** shines as the sales leader, while the **South region** needs attention to boost its performance.
 - **💰 Profitability**: The **Technology category** reigns supreme in profits, with **Office Supplies** trailing closely. Watch out for **Tables and Bookcases**, which are dragging down profits, while **Copiers and Phones** are cash cows!
 - **📅 Seasonality**: Sales soar during the holiday season, indicating a prime opportunity for strategic marketing and inventory planning.
